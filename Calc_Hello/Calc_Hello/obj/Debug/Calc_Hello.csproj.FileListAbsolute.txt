@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\bin\Debug\Calc_Hello.exe.config
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\bin\Debug\Calc_Hello.exe
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\bin\Debug\Calc_Hello.pdb
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.Form1.resources
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.Properties.Resources.resources
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.exe
+C:\Users\User\source\repos\Calc_Hello\Calc_Hello\obj\Debug\Calc_Hello.pdb
